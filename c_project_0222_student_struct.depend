@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1645595324 source:c:\workspace\c_project_0222_student_struct\main.c
+	"student_dll.h"
+
+1645597846 c:\workspace\c_project_0222_student_struct\student_dll.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
